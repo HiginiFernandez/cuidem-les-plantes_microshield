@@ -1,0 +1,27 @@
+{
+    "name": "Cuidem les plantes_NO_Whappstobit",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "microshield": "github:makeandlearn/pxt-microshield#v1.0.2",
+        "OLED12864_I2C": "github:makecode-extensions/oled12864_i2c#v1.5.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "7.0.51",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
